@@ -1,0 +1,11 @@
+a {
+  align-self: center;
+    
+  }
+  a img{border-radius: 50%;}
+  html {
+    background-image: url("road.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
